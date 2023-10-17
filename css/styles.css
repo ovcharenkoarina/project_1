@@ -1,1 +1,26 @@
+:root {
+  /* Background Color */
+  --background-color: #ffc0cb; /* Pastel Pink */
 
+  /* Text Colors */
+  --text-primary: #333; /* Dark Gray */
+  --text-secondary: #666; /* Medium Gray */
+  --text-accent: #ff1493; /* Deep Pink */
+
+  /* Header Colors */
+  --header-background: #fff; /* White */
+  --header-text: #ff69b4; /* Hot Pink */
+
+  /* Button Colors */
+  --button-background: #ff69b4; /* Hot Pink */
+  --button-text: #fff; /* White */
+
+  /* Navigation Colors */
+  --nav-background: #ff1493; /* Deep Pink */
+  --nav-text: #fff; /* White */
+  --nav-hover: #ff69b4; /* Lighter Hot Pink */
+}
+
+body {
+  font-family: 'Abril Fatface', serif, sans-serif;
+}
